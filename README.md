@@ -2,8 +2,10 @@
 
 Install npm packages for your database of choice
 
-```npm install```
-```npm run start```
-```npm run react```
+```
+npm install
+npm run start
+npm run react
+```
 
-[Local Server on port 3000](http://localhost:3000/)
+[localhost://3000/](http://localhost:3000/)
