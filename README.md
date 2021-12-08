@@ -7,5 +7,4 @@ npm install
 npm run start
 npm run react
 ```
-
-[localhost://3000/](http://localhost:3000/)
+go to localhost:3000
